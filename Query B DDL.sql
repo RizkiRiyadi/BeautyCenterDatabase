@@ -1,6 +1,3 @@
----M. Alfa Rayhansah Papaisa	2301931176
----Mohammad Rizki Riyadi		2301944310
----Ariko Laki Pratama Sembiring	2301872444
 
 -------------------------  B (Query to create the database system) -------------------------------------------------
 

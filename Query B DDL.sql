@@ -1,7 +1,7 @@
 
 -------------------------  B (Query to create the database system) -------------------------------------------------
 
-create database ProjectLAB
+create database BeautyCenterDatabase
 
 Create table Customer (
 	CustomerID char(6) primary key not null 

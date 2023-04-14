@@ -1,0 +1,1 @@
+# beauty_center_databse_case
